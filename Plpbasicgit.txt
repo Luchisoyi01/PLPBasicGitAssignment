@@ -1,2 +1,4 @@
 I created an empty repo in my gethub hub account and cloned the file in my laptop with Git clone command
 then used a Git add command
+after that i used the git commit command, followed by git status command to check the status of my code 
+Finally i used git push command to save the document in my github account.
